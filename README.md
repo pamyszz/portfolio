@@ -1,4 +1,4 @@
-![image](https://github.com/pamyszz/portfolio/assets/153380356/f25b5e2b-08b0-4e1d-a8dd-8f19ecf30b0d)
+![image](https://github.com/pamyszz/portfolio/assets/153380356/0bad4460-2057-4cad-8066-ad96c6b90200)
 
 # Portfólio da Pamela 💜
 Este é o repositório do meu _portfólio pessoal_, desenvolvido com o auxílio da **Alura**. 🚀
@@ -23,7 +23,7 @@ Se deseja contribuir com este projeto, siga estes passos:
 5. Crie um novo _Pull Request_
 
 ## Contato 📧
-Se deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das minhas redes sociais ou pelo e-mail [seuemail@gmail.com].
+Se deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das minhas redes sociais ou pelo [e-mail](pamelamiranda.o87@gmail.com).
 
 ## Licença 📝
 Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/).
