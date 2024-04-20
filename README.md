@@ -1,4 +1,4 @@
-![image](https://github.com/pamyszz/portfolio/assets/153380356/f25b5e2b-08b0-4e1d-a8dd-8f19ecf30b0d)
+![image](https://github.com/pamyszz/portfolio/assets/153380356/0bad4460-2057-4cad-8066-ad96c6b90200)
 
 # Portfólio da Pamela 💜
 Este é o repositório do meu _portfólio pessoal_, desenvolvido com o auxílio da **Alura**. 🚀
