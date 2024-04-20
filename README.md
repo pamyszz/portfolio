@@ -23,7 +23,7 @@ Se deseja contribuir com este projeto, siga estes passos:
 5. Crie um novo _Pull Request_
 
 ## Contato 📧
-Se deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das minhas redes sociais ou pelo e-mail [seuemail@gmail.com].
+Se deseja entrar em contato comigo, sinta-se à vontade para me enviar uma mensagem por meio das minhas redes sociais ou pelo e-mail [pamelamiranda.o87@gmail.com].
 
 ## Licença 📝
 Este projeto está sob a licença [MIT](https://choosealicense.com/licenses/mit/).
